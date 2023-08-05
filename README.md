@@ -1,4 +1,5 @@
 # Threads Clone with TypeScript+NextJS13
+This is the repository for a Threads clone made with MERN Techstack, following a tutorial. I hope to build on top of this repo out of the tutorial as well.
 <br>
 
 ## NextJS Provided ReadME
